@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="539" />
     <option name="newTranslationDialogY" value="194" />
     <histories>
+      <item value="奖金" />
+      <item value="对战规则" />
+      <item value="合约对战" />
       <item value="压力" />
       <item value="ya'li" />
       <item value="apple" />
@@ -15,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
