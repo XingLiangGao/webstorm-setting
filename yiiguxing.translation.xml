@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="539" />
     <option name="newTranslationDialogY" value="194" />
     <histories>
+      <item value="看跌" />
+      <item value="看涨" />
+      <item value="权利金" />
+      <item value="面额" />
+      <item value="可用余额" />
+      <item value="期权" />
       <item value="图表" />
       <item value="最高奖池" />
       <item value="奖金" />
@@ -26,7 +32,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632809048947" />
+    <option name="lastTrimTime" value="1634541469369" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
