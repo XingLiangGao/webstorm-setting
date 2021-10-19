@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="539" />
     <option name="newTranslationDialogY" value="194" />
     <histories>
+      <item value="应付" />
+      <item value="下单面额" />
+      <item value="产品期限" />
       <item value="订单确认" />
       <item value="行权价" />
       <item value="jj" />
