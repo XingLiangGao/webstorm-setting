@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="539" />
     <option name="newTranslationDialogY" value="194" />
     <histories>
+      <item value="结算时间" />
+      <item value="结算价" />
       <item value="应付" />
       <item value="下单面额" />
       <item value="产品期限" />
