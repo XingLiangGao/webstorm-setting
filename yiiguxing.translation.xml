@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="539" />
     <option name="newTranslationDialogY" value="194" />
     <histories>
+      <item value="repeat" />
+      <item value="re" />
       <item value="第三" />
       <item value="第二" />
       <item value="di'er" />
@@ -51,18 +53,16 @@
       <item value="删除线" />
       <item value="已回答" />
       <item value="yi" />
-      <item value="期权测试" />
-      <item value="回答" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="235" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635845553527" />
+    <option name="lastTrimTime" value="1636438612992" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
