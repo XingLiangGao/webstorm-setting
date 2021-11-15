@@ -1,0 +1,8 @@
+<application>
+  <component name="JuejinPersistentConfig">
+    <option name="cookieValue" value="cookie: MONITOR_WEB_ID=d07316a9-38e0-417d-b271-eeac2a929814; _ga=GA1.2.1330874006.1613988443; n_mh=oruIJ4BLk50T9EbuK7trcx_rhi6uCJ9rqvpdkjFc6vs; passport_csrf_token_default=896fab32b367b53df360b52ac5b14b49; passport_csrf_token=896fab32b367b53df360b52ac5b14b49; sid_guard=1ce29dd0d56c9ca456c20b17c5e9f8a5%7C1635407440%7C5184000%7CMon%2C+27-Dec-2021+07%3A50%3A40+GMT; uid_tt=ddca14c1d2dd3cd7fe9a46f7cef91636; uid_tt_ss=ddca14c1d2dd3cd7fe9a46f7cef91636; sid_tt=1ce29dd0d56c9ca456c20b17c5e9f8a5; sessionid=1ce29dd0d56c9ca456c20b17c5e9f8a5; sessionid_ss=1ce29dd0d56c9ca456c20b17c5e9f8a5; sid_ucp_v1=1.0.0-KDc1MmQ0Y2Q0MmM4ODRiNDU3NzlmZTZjYzQ4MTBiNTk5ZWRkYTM0ODEKFgjoyJC__fXFBBDQrOmLBhiwFDgIQAsaAmxmIiAxY2UyOWRkMGQ1NmM5Y2E0NTZjMjBiMTdjNWU5ZjhhNQ; ssid_ucp_v1=1.0.0-KDc1MmQ0Y2Q0MmM4ODRiNDU3NzlmZTZjYzQ4MTBiNTk5ZWRkYTM0ODEKFgjoyJC__fXFBBDQrOmLBhiwFDgIQAsaAmxmIiAxY2UyOWRkMGQ1NmM5Y2E0NTZjMjBiMTdjNWU5ZjhhNQ; _gid=GA1.2.1595399161.1636943594" />
+    <option name="enableAutoSign" value="true" />
+    <option name="logined" value="true" />
+    <option name="nickname" value="gyxyl" />
+  </component>
+</application>
