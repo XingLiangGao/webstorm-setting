@@ -1,0 +1,19 @@
+<application>
+  <component name="fundTool">
+    <option name="otherConfig">
+      <map>
+        <entry key="pollingInterval" value="5" />
+      </map>
+    </option>
+    <option name="tableConfig">
+      <map>
+        <entry key="320007" value="0.0" />
+      </map>
+    </option>
+    <option name="tableExtConfig">
+      <map>
+        <entry key="320007" value="{&quot;netWorth&quot;:&quot;2.1430&quot;,&quot;growthRate&quot;:&quot;-1.47&quot;,&quot;haveNum&quot;:null,&quot;updateTime&quot;:&quot;2021-11-18 15:00&quot;,&quot;_id&quot;:&quot;320007&quot;,&quot;NAME&quot;:&quot;诺安成长混合&quot;}" />
+      </map>
+    </option>
+  </component>
+</application>
