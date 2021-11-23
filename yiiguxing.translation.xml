@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogX" value="539" />
     <option name="newTranslationDialogY" value="194" />
     <histories>
+      <item value="退出" />
       <item value="handle" />
       <item value="退还" />
       <item value="tui" />
@@ -52,23 +54,15 @@
       <item value="订单确认" />
       <item value="jj" />
       <item value="完成测评" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="258" />
+        <entry key="ENGLISH" value="251" />
       </map>
     </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1637302431569" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
   </component>
 </application>
