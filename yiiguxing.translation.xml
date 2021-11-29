@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="539" />
     <option name="newTranslationDialogY" value="194" />
     <histories>
+      <item value="drag" />
+      <item value="drage" />
+      <item value="d" />
       <item value="眼睛" />
       <item value="金额" />
       <item value="header" />
@@ -51,14 +54,11 @@
       <item value="quan'li'j" />
       <item value="面额" />
       <item value="周期" />
-      <item value="zhou'q" />
-      <item value="倍数" />
-      <item value="捐赠成功" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="318" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="319" />
       </map>
     </option>
   </component>
