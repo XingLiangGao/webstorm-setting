@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="539" />
     <option name="newTranslationDialogY" value="194" />
     <histories>
+      <item value="询价" />
       <item value="欧式价差期权" />
       <item value="欧式价差" />
       <item value="欧式jia'c" />
@@ -53,12 +54,11 @@
       <item value="第三" />
       <item value="第二" />
       <item value="di'er" />
-      <item value="die" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="382" />
+        <entry key="ENGLISH" value="374" />
       </map>
     </option>
   </component>
