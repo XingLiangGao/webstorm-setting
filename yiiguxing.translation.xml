@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="539" />
     <option name="newTranslationDialogY" value="194" />
     <histories>
+      <item value="行权价" />
+      <item value="美式单买期权" />
+      <item value="美式单买" />
+      <item value="mei'shi单买" />
+      <item value="单买" />
+      <item value="单mai" />
       <item value="询价" />
       <item value="欧式价差期权" />
       <item value="欧式价差" />
@@ -21,7 +27,6 @@
       <item value="yi" />
       <item value="已经" />
       <item value="保本价" />
-      <item value="行权价" />
       <item value="面额" />
       <item value="周期" />
       <item value="产品" />
@@ -49,16 +54,11 @@
       <item value="退还" />
       <item value="tui" />
       <item value="对战已取消" />
-      <item value="repeat" />
-      <item value="re" />
-      <item value="第三" />
-      <item value="第二" />
-      <item value="di'er" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="382" />
-        <entry key="ENGLISH" value="374" />
+        <entry key="CHINESE" value="399" />
+        <entry key="ENGLISH" value="391" />
       </map>
     </option>
   </component>
