@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="539" />
     <option name="newTranslationDialogY" value="194" />
     <histories>
+      <item value="到期日" />
       <item value="产品说明书" />
       <item value="支付期权费" />
       <item value="下单量" />
@@ -53,7 +54,6 @@
       <item value="美式单买" />
       <item value="mei'shi单买" />
       <item value="单买" />
-      <item value="单mai" />
     </histories>
     <option name="languageScores">
       <map>
