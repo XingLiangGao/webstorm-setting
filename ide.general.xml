@@ -7,8 +7,7 @@
       <map>
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="Memory" value="true" />
-        <entry key="TypeScriptInfo" value="false" />
-        <entry key="git" value="false" />
+        <entry key="Position" value="false" />
       </map>
     </option>
   </component>
